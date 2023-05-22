@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "2c68224cf9764d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1997b869f1823514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bb3e555c8fb625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research002_LS001 1 1 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71429ef9bd7c7f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b86328875ee1a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca18743e0b754f58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf3940976d69cee8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e57d2fc08b7c5b85",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f3f387a71a2c77a",
+    "type": "split",
+    "children": [
+      {
+        "id": "da52b87b0e258726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be47d6d4360987e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "research002_LS001 1 1 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4c618c8481a69d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "research002_LS001 1 1 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8e689df59ccf18e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92d2624cdf86615f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "research002_LS001 1 1 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "00bb3e555c8fb625",
+  "lastOpenFiles": [
+    "formisskeyio.md",
+    "research002_LS001 1 1 1.md",
+    "research002_LS001 1 1.md",
+    "research002_LS001 1.md",
+    "research002_LS001.md",
+    "research001_kosenhiritsu.md"
+  ]
+}
